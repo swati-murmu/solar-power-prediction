@@ -1,6 +1,4 @@
 # solar-power-prediction
-
-
 The primary goal of the project is to calculate the ideal number of solar panels based on the zipcodes in Orange County and the power consumption of the user's household.  Approached this by answering three research questions that helped us predict the number of solar panels. The following were the research questions: 
 
 1) Can we predict the weather based on several variables?
